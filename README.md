@@ -31,8 +31,8 @@ The project focuses on enhancing user experience and optimizing page performance
 
 ## Live Demo
 
-> [Live Demo on Netlify](https://your-demo-link.netlify.app)
-> [Live Demo on Vercel]()
+> [Live Demo on Netlify](https://bankist-app-landing.netlify.app/)<br>
+> [Live Demo on Vercel](https://bankist-landing-one.vercel.app/)
 
 ---
 
