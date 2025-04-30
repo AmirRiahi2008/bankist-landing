@@ -16,7 +16,7 @@ const btn_right_slide = document.querySelector(".slider__btn--right");
 const btn_left_slide = document.querySelector(".slider__btn--left");
 const allSlides = document.querySelectorAll(".slide");
 const dots_Conatiner = document.querySelector(".dots");
-///////////////////////////////////////////
+///////////////////////////////////////////////
 const openModal = function (e) {
   e.preventDefault();
   modal.classList.remove("hidden");
